@@ -99,16 +99,9 @@ namespace ComunicadorSefaz.Services
             }
             catch (CryptographicException ex)
             {
-                #region #10316
-                /*
-                 * Solução para o problema do certificado do tipo A3
-                 * 
-                 */
-#if DEBUG
-                Debug.WriteLine("O erro CryptographicException foi lançado");
-#endif
-                throw new Exception("O certificado deverá ser reiniciado.\r\n Retire o certificado.\r\nAguarde o LED terminar de piscar.\r\n Recoloque o certificado e informe o PIN novamente.\r\n" + ex);
-                #endregion
+                
+                Debug.WriteLine("Error CryptographicException was throw");
+              
             }
         }
 
