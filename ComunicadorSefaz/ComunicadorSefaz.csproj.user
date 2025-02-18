@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>https</ActiveDebugProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\confRecebto_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\e210200_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\e210210_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\e210220_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\e210240_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\envConfRecebto_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\leiauteConfRecebto_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\procConfRecebtoNFe_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\retEnvConfRecebto_v1.00.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\tiposBasico_v1.03.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Utils\ManifestoDestinatarioPl1v1\xmldsig-core-schema_v1.01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

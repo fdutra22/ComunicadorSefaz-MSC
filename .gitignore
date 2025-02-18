@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/ComunicadorSefaz/.vs/ComunicadorSefaz
+/ComunicadorSefaz/bin/Debug/net9.0
+/ComunicadorSefaz/obj
+/ComunicadorSefaz.Test/bin/Debug/net9.0
+/ComunicadorSefaz.Test/obj
